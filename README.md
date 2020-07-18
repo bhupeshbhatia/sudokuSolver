@@ -24,7 +24,8 @@ It will provide the original sudoku and the solved solution:
 
     The Sudoku was solved successfully:
     
-___________Solved_________
+##### 
+
     [5 1 4 9 6 2 8 7 3]
     [3 6 7 1 8 5 9 2 4]
     [8 2 9 3 7 4 1 6 5]
